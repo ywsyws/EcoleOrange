@@ -1,8 +1,4 @@
-# NLP Scraping Projects
-projets/NLP/scrap/data.xml
-projets/NLP/scrap/l_equipe_l_actualite_du_sport_en_continu.html
-*.xml*
-*.html*
+
 *.ipynb_checkpoints*
 projets/DNN/Deep_Neural_Network_from_Scratch_-_XOR_-_Noisy.ipynb
 projets/DNN/DNN_scratch_notworking.ipynb
